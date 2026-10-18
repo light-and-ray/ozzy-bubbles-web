@@ -1,7 +1,7 @@
 ## Ozzy Bubbles Web
 
 **Play here:** https://light-and-ray.github.io/ozzy-bubbles-web/ \
-Requires WebGPU - you may need to turn it on in `chrome://flags`
+Requires WebGPU - you may need to turn it on in `chrome://flags` or `about:config`
 
 ### Description
 
