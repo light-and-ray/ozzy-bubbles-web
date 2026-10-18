@@ -1,11 +1,13 @@
 ## Ozzy Bubbles Web
 
-Play here: https://light-and-ray.github.io/ozzy-bubbles-web/\
+**Play here:** https://light-and-ray.github.io/ozzy-bubbles-web/ \
 Requires WebGPU - you may need to turn it on in `chrome://flags`
 
 ### Description
 
-Ozzy Bubbles is an unknown underrated 2D platformer from early 2000. It is an abandonware, you can't buy it anywhere, even thought bigfishgames offers this game - the site is broken, and after the purchase, it's not possible to download it. The web version is an ideal solution for people, who are afraid of launching .exe files from third party sites, but wants to revisit the game from childhood
+Ozzy Bubbles is an unknown underrated 2D platformer from early 2000, about Ozzy the Turtle. It is an abandonware, you can't buy it anywhere, even thought bigfishgames offers this game - the site is broken, and after the purchase, it's not possible to download it. The web version is an ideal solution for people, who are afraid of launching .exe files from third party sites, but wants to revisit the game from childhood
+
+<img width="300" src="screenshot1.png"></img> <img width="300" src="screenshot2.png"></img>
 
 I tried to do this. It's a version converted with [bottleship](https://bottleship.pages.dev/). It works, but it lags very much, and requires WebGPU. I will try to find better versions, but for just playing on PC 1 time this can be enough
 
