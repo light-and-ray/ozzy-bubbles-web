@@ -10,7 +10,7 @@
             object-fit: contain;
             image-rendering: pixelated;
         }
-        &>div>div {
+        &>div>div:has(details) {
             display: none;
         }
     }
