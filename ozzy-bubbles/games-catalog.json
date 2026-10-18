@@ -1,0 +1,13 @@
+[
+  {
+    "id": "ozzy-bubbles",
+    "name": "Ozzy Bubbles",
+    "subtitle": "Demo",
+    "wgbUrl": "/app-ozzy-bubbles.wgb",
+    "coverUrl": "/covers/nfs-underground2-box.jpg",
+    "description": "Explore Bayview in Free Roam or race the City Hall circuit in the original English PC demo. The first load can take several minutes.",
+    "year": "2004",
+    "genre": "Platformer",
+    "enabled": true
+  }
+]
