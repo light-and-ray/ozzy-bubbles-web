@@ -10,8 +10,15 @@
             object-fit: contain;
             image-rendering: pixelated;
         }
-        &>div>div:has(details) {
-            display: none;
+        &>div>div {
+            /* hide misleading crash message after game exit */
+            &:has(details) {
+                display: none;
+            }
         }
+    }
+    /* hide go back to library button */
+    &>div>button:last-child {
+        display: none;
     }
 }
